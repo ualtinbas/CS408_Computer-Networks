@@ -12,3 +12,5 @@ After the server is opened, the clients must be setup. The client executable is 
 For clients to connect to the server, the server must be started from the executable. After the server is active, the clients may connect to the server. When all the players are connected, the game can be started by the host.
 
 If you require any more info about the project, please refer to the PDF file.
+
+Thanks to [Yiğit Çatak](https://github.com/yigitcatak), Arda Baydar, and Buket for their contributions.
