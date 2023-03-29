@@ -1,0 +1,8 @@
+C:\Users\yigit\Desktop\Void\CS408\Project\server\server\bin\Release\server.exe.config
+C:\Users\yigit\Desktop\Void\CS408\Project\server\server\bin\Release\server.exe
+C:\Users\yigit\Desktop\Void\CS408\Project\server\server\bin\Release\server.pdb
+C:\Users\yigit\Desktop\Void\CS408\Project\server\server\obj\Release\server.Form1.resources
+C:\Users\yigit\Desktop\Void\CS408\Project\server\server\obj\Release\server.Properties.Resources.resources
+C:\Users\yigit\Desktop\Void\CS408\Project\server\server\obj\Release\server.csproj.GenerateResource.Cache
+C:\Users\yigit\Desktop\Void\CS408\Project\server\server\obj\Release\server.exe
+C:\Users\yigit\Desktop\Void\CS408\Project\server\server\obj\Release\server.pdb
